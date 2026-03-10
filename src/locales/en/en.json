@@ -1,0 +1,71 @@
+{
+  "common": {},
+  "validation": {
+    "country": "*Country is required",
+    "state": "*State is Required",
+    "field": "*Field is Required",
+    "emailFormat": "*Invalid email format",
+    "firstNameRequired": "*First name is required",
+    "lastNameRequired": "*Last name is required",
+    "emailMax": "Email must not exceed 30 characters",
+    "emailRequired": "*Email is Required",
+    "suburbRequired": "*Suburb is Required",
+    "passwordMin": "*Password must be at least 8 characters",
+    "passwordUppercase": "*Password must contain at least one uppercase letter",
+    "passwordLowercase": "*Password must contain at least one lowercase letter",
+    "passwordNumber": "*Password must contain at least one number",
+    "passwordSpecial": "*Password must contain at least one special character (@ $ ! % * ? & . _ -)",
+    "passwordMax": "*Password must not exceed 20 characters",
+    "passwordRequired": "*Password is required",
+    "cpasswordMin": "*Confirm Password must be at least 8 characters",
+    "cpasswordMax": "*Confirm Password must not exceed 20 characters",
+    "cpasswordRequired": "*Confirm Password is required",
+    "passwordsMustMatch": "*Passwords must match",
+    "acceptTermsRequired": "*You must accept the Terms of Service and Privacy Policy to continue.",
+    "nameRequired": "*Name is required",
+    "addressRequired": "*Address is required",
+    "postalCodeRequired": "*Code is Required",
+    "cityRequired": "*City is Required",
+    "required": "*Field is required",
+    "passwordComplexity": "*Password must contain at least 8 characters including 1 uppercase, 1 lowercase, 1 number, and 1 special character.",
+    "nameMax": "Name must not exceed 30 characters",
+    "newPasswordRequired": "*New Password is required",
+    "oldPasswordRequired": "*Old Password is required",
+    "newPasswordMin": "*New Password must be at least 8 characters",
+    "newPasswordMax": "*New Password must be at most 12 characters",
+    "newPasswordLowercase": "*New Password must contain at least one lowercase letter",
+    "newPasswordUppercase": "*New Password must contain at least one uppercase letter",
+    "newPasswordNumber": "*New Password must contain at least one number",
+    "newPasswordSpecialChar": "*New Password must contain at least one special character",
+    "confirmPasswordRequired": "*Confirm Password is required",
+    "confirmPasswordMatch": "*Passwords must match",
+    "pleaseSelectAPlanBeforeProceeding.": "*Please select a plan before proceeding.",
+    "messageRequired": "*Message is Required",
+    "phone": {
+      "min": "*Phone must be at least 10 characters",
+      "max": "*Phone must be at most 15 characters",
+      "required": "Phone is required",
+      "onlyNumbers": "*Enter valid Phone Number"
+    },
+    "dobDay": {
+      "required": "*Day is required",
+      "matches": "*Day must be a number"
+    },
+    "dobMonth": {
+      "required": "*Month is required",
+      "matches": "*Month must be a number"
+    },
+    "dobYear": {
+      "required": "*Year is required",
+      "matches": "*Year must be a number",
+      "test": "*You must be at least 18 years old"
+    },
+    "validEmailHere": "*Please enter a valid email address",
+    "amountRequired": "Amount is required",
+    "amountInvalid": "Enter a valid amount (up to 2 decimals)",
+    "amountGreaterThanZero": "Amount must be greater than 0",
+    "percentageRequired": "Percentage is required",
+    "percentageInvalid": "Enter a valid percentage (up to 2 decimals)",
+    "percentageRange": "Percentage must be between 0 and 100"
+  }
+}
